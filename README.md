@@ -1,4 +1,4 @@
-# NYU Machine Learning Projects
+# Collaborative ML Projects
 
 Two collaborative machine learning projects demonstrating image classification and regression analysis.
 
